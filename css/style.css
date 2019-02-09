@@ -1,0 +1,28 @@
+body{
+	background-color:#5bb5b2;
+	padding:20px 10px 20px 10px;
+
+}
+h1{
+	background-color:#657689;
+    font-style: italic;
+    padding: 0px 0px 0px 10px;
+}
+h2{
+	background-color:#464756;
+	font-style: oblique;
+	letter-spacing:3px;
+	display:inline-block;
+}
+
+table{
+	background-color:#567;
+	border-collapse:collapse;
+}
+th,td{
+	border:3px solid gray;
+	letter-spacing:4px;
+}
+td{
+	background-color:#567;
+}
